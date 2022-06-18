@@ -1,4 +1,35 @@
 {
-    "clientes": [
-    ]
+  "clientes": [
+    {
+      "nombre": "Edi",
+      "empresa": "EdiEntr",
+      "email": "edi@edi.com",
+      "telefono": "5456",
+      "id": 1
+    },
+    {
+      "nombre": "Edi",
+      "empresa": "EdiEntr",
+      "email": "edi@edi.com",
+      "telefono": "5456",
+      "notas": "Probando React",
+      "id": 2
+    },
+    {
+      "nombre": "Edi",
+      "empresa": "EdiEntr",
+      "email": "edi@edi.com",
+      "telefono": "5456",
+      "notas": "Probando React",
+      "id": 3
+    },
+    {
+      "nombre": "Edi",
+      "empresa": "EdiEntr",
+      "email": "edi@edi.com",
+      "telefono": "5456",
+      "notas": "Probando React",
+      "id": 4
+    }
+  ]
 }
