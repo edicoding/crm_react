@@ -30,6 +30,14 @@
       "telefono": "5456",
       "notas": "Probando React",
       "id": 4
+    },
+    {
+      "nombre": "Marga",
+      "empresa": "Marga Medicina",
+      "email": "dtdfsg@marga.com",
+      "telefono": "5234655654",
+      "notas": "Hola",
+      "id": 5
     }
   ]
 }
