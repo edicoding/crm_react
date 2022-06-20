@@ -1,14 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Edi",
-      "empresa": "EdiEntr",
-      "email": "edi@edi.com",
-      "telefono": "5456",
-      "id": 1
-    },
-    {
-      "nombre": "Edi",
+      "nombre": "Edi ACTUALIZADO",
       "empresa": "EdiEntr",
       "email": "edi@edi.com",
       "telefono": "5456",
@@ -32,12 +25,12 @@
       "id": 4
     },
     {
-      "nombre": "Marga",
-      "empresa": "Marga Medicina",
-      "email": "dtdfsg@marga.com",
-      "telefono": "5234655654",
-      "notas": "Hola",
-      "id": 5
+      "nombre": "Edgar actualizado",
+      "empresa": "Edgar CVompanu",
+      "email": "dtdfsg@tat.comsfsdfgasfg",
+      "telefono": "5452346556",
+      "notas": "fsdvsvffdhgjhfhdjhgjkgk",
+      "id": 6
     }
   ]
 }
